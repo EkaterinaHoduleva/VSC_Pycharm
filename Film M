@@ -1,0 +1,21 @@
+<film>
+	<title>Моана</title>
+	<directors>
+		<director>Рон Клементс</director>
+		<director>Джон Маскер</director>
+	</directors>
+	<year>2016</year>
+	<genre>
+		<type>Мультфильм</type>
+		<type>Мюзикл</type>
+		<type>Приключения</type>
+	</genre>
+	<ratings>
+		<rating> IMDb 7.6 </rating>
+		<rating> Кинопоиск 8.1 </rating>
+	</ratings>
+	<age_restriction>false</age_restriction>
+	<description>
+        Моана, дочь главы племени, отправляется в путешествие вместе с полубогом Мауи, чтобы спасти свой народ и найти легендарный остров Та-Фити.
+    </description>
+</film>
