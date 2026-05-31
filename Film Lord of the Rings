@@ -1,0 +1,15 @@
+<film>
+	<title>Властелин колец: Возвращение короля</title>
+	<director>Питер Джексон</director>
+	<year>2003</year>
+	<genre>
+		<type>Фэнтези</type>
+		<type>Приключения</type>
+	</genre>
+	<ratings>
+		<rating> IMDb 8.9 </rating>
+		<rating> Кинопоиск 9.0 </rating>
+	</ratings>
+	<age_restriction>true</age_restriction>
+	<description>Эпическое завершение третьей части трилогии «Властелин колец»</description>
+</film>
